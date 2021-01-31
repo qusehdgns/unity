@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/ARTesting.unity
+  isLoaded: 1
+  isActive: 1
